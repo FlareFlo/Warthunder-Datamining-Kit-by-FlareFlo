@@ -1,0 +1,18 @@
+
+Important
+.blk .blkx	1	Aces - Values and data regarding any mechanics
+.png 		1	Images - Image resources ingame
+.ddsx 		1	tex - Textures and smaller resources used ingame
+.blk .blkx	1	char - Arrays of raw data for various things
+.blk .blkx	1	mis - Mission data
+.blk/.csv .blkx	1	regional - Various localization and information
+
+
+
+
+Unimportant
+.png 			Slides - Presentation slides for tutorials
+.ttf 			fonts - various fonts used ingame
+.svg/.png		atlases - vector assets used ingame
+.csv			lang - translations for ingame buttons/texts
+.blk .blkx		wwdata - Information for World War mode
